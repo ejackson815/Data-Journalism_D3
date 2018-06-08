@@ -1,6 +1,6 @@
 # Unit 16 | Assignment - Data Journalism and D3
 
-<img alt='Beer Drinking (via GIPHY)' <iframe src="https://giphy.com/embed/h8NdYZJGH1ZRe" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-bartender-announces-h8NdYZJGH1ZRe">via GIPHY</a></p> /> <br><em>via GIPHY</em></a>
+<a target='_blank' href="https://giphy.com/gifs/mrw-bartender-announces-h8NdYZJGH1ZRe"><img alt='Beer Drinking (via GIPHY)' src="https://media.giphy.com/media/h8NdYZJGH1ZRe/giphy.gif" /> <br><em>via GIPHY</em></a>
 
 ## Background
 
